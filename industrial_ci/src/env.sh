@@ -65,6 +65,7 @@ export OS_CODE_NAME
 export OS_NAME
 export DOCKER_BASE_IMAGE
 export COMMIT_IMAGE
+export COMMIT_IMAGE_NAME
 
 # exit with error if OS_NAME is set, but OS_CODE_NAME is not.
 # assume ubuntu as default
